@@ -1,2 +1,1 @@
-This is a git software test files
-Git is free software
+学习python的一些程序例题集合，其中包含了进步的力量。
