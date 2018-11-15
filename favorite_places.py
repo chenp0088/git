@@ -7,4 +7,4 @@ favorite_places={
 }
 for name,place in favorite_places.items():
     for di in place:
-        print name,("is like to go to "),di
+        print name.title(),("is like to go to "),di.title()
