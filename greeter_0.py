@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# coding=utf-8
+prompt = "If you tell us who you are,We can personalize the messages you see."
+prompt += "\nWhat is your first name?"
+name = input(prompt)
+print("\nHello, "+name+"!")
